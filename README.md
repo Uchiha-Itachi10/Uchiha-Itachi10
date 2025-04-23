@@ -25,7 +25,8 @@ Thanks for visiting my GitHub. I'm currently focused on learning and building in
 ---
 ## 🎓 My Background
 
-- 🎓 Master’s in Computer & Information Science – University of Kansas  
+- 🎓 Master’s in Computer & Information Science – University of Kansas
+- 🎓 Bachelor's in Computer Science & Engineering - Anna University  
 - 👨‍🏫 Teaching Assistant for Info & Data Security courses  
 
 ---
